@@ -39,6 +39,8 @@ namespace ConsoleApp1CSharp
                 Console.ReadLine();
                 Stack<int> numberStack = new Stack<int>();
 
+
+                //Ashley was here
                 Random num = new Random();
                 for(int i=0;i<20;i++)
                 {
